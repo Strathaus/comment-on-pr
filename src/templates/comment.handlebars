@@ -1,0 +1,15 @@
+# {{title}}
+
+## Total
+
+| File | Lines | Functions | Statements | Branches |
+|------|-------|-----------|------------|----------|
+| Total | {{total.lines.pct}} | {{total.statements.pct}} | {{total.functions.pct}} | {{total.branches.pct}} |
+
+## Files
+
+| File | Lines | Functions | Statements | Branches |
+|------|-------|-----------|------------|----------|
+{{#each files}}
+| {{file}} | {{coverage.lines.pct}} | {{coverage.statements.pct}} | {{coverage.functions.pct}} | {{coverage.branches.pct}} |
+{{/each}}
