@@ -1,0 +1,291 @@
+{
+  "total": {
+    "lines": { "total": 356, "covered": 199, "skipped": 0, "pct": 55.89 },
+    "statements": { "total": 373, "covered": 209, "skipped": 0, "pct": 56.03 },
+    "functions": { "total": 129, "covered": 45, "skipped": 0, "pct": 34.88 },
+    "branches": { "total": 42, "covered": 2, "skipped": 0, "pct": 4.76 },
+    "branchesTrue": { "total": 0, "covered": 0, "skipped": 0, "pct": 100 }
+  },
+  "src\\app\\app.component.ts": {
+    "lines": { "total": 21, "covered": 17, "skipped": 0, "pct": 80.95 },
+    "functions": { "total": 6, "covered": 3, "skipped": 0, "pct": 50 },
+    "statements": { "total": 21, "covered": 17, "skipped": 0, "pct": 80.95 },
+    "branches": { "total": 3, "covered": 0, "skipped": 0, "pct": 0 }
+  },
+  "src\\app\\administration\\administration.component.ts": {
+    "lines": { "total": 15, "covered": 6, "skipped": 0, "pct": 40 },
+    "functions": { "total": 9, "covered": 1, "skipped": 0, "pct": 11.11 },
+    "statements": { "total": 17, "covered": 6, "skipped": 0, "pct": 35.29 },
+    "branches": { "total": 0, "covered": 0, "skipped": 0, "pct": 100 }
+  },
+  "src\\app\\administration\\administration.service.ts": {
+    "lines": { "total": 3, "covered": 3, "skipped": 0, "pct": 100 },
+    "functions": { "total": 1, "covered": 1, "skipped": 0, "pct": 100 },
+    "statements": { "total": 3, "covered": 3, "skipped": 0, "pct": 100 },
+    "branches": { "total": 0, "covered": 0, "skipped": 0, "pct": 100 }
+  },
+  "src\\app\\administration\\guestlist\\guestlist.component.ts": {
+    "lines": { "total": 10, "covered": 8, "skipped": 0, "pct": 80 },
+    "functions": { "total": 4, "covered": 2, "skipped": 0, "pct": 50 },
+    "statements": { "total": 11, "covered": 8, "skipped": 0, "pct": 72.72 },
+    "branches": { "total": 0, "covered": 0, "skipped": 0, "pct": 100 }
+  },
+  "src\\app\\administration\\guestlist\\guestlist.service.ts": {
+    "lines": { "total": 6, "covered": 4, "skipped": 0, "pct": 66.66 },
+    "functions": { "total": 4, "covered": 2, "skipped": 0, "pct": 50 },
+    "statements": { "total": 6, "covered": 4, "skipped": 0, "pct": 66.66 },
+    "branches": { "total": 0, "covered": 0, "skipped": 0, "pct": 100 }
+  },
+  "src\\app\\administration\\guestlist\\email-sending\\email-sending.component.ts": {
+    "lines": { "total": 21, "covered": 7, "skipped": 0, "pct": 33.33 },
+    "functions": { "total": 5, "covered": 1, "skipped": 0, "pct": 20 },
+    "statements": { "total": 21, "covered": 7, "skipped": 0, "pct": 33.33 },
+    "branches": { "total": 9, "covered": 0, "skipped": 0, "pct": 0 }
+  },
+  "src\\app\\administration\\guestlist\\email-sending\\email-sending.service.ts": {
+    "lines": { "total": 4, "covered": 3, "skipped": 0, "pct": 75 },
+    "functions": { "total": 2, "covered": 1, "skipped": 0, "pct": 50 },
+    "statements": { "total": 4, "covered": 3, "skipped": 0, "pct": 75 },
+    "branches": { "total": 0, "covered": 0, "skipped": 0, "pct": 100 }
+  },
+  "src\\app\\anfahrt-und-location\\anfahrt-und-location.component.ts": {
+    "lines": { "total": 8, "covered": 5, "skipped": 0, "pct": 62.5 },
+    "functions": { "total": 3, "covered": 1, "skipped": 0, "pct": 33.33 },
+    "statements": { "total": 8, "covered": 5, "skipped": 0, "pct": 62.5 },
+    "branches": { "total": 0, "covered": 0, "skipped": 0, "pct": 100 }
+  },
+  "src\\app\\authentication\\authentication.service.ts": {
+    "lines": { "total": 14, "covered": 5, "skipped": 0, "pct": 35.71 },
+    "functions": { "total": 7, "covered": 1, "skipped": 0, "pct": 14.28 },
+    "statements": { "total": 14, "covered": 5, "skipped": 0, "pct": 35.71 },
+    "branches": { "total": 0, "covered": 0, "skipped": 0, "pct": 100 }
+  },
+  "src\\app\\contact\\contact.component.ts": {
+    "lines": { "total": 1, "covered": 1, "skipped": 0, "pct": 100 },
+    "functions": { "total": 0, "covered": 0, "skipped": 0, "pct": 100 },
+    "statements": { "total": 2, "covered": 2, "skipped": 0, "pct": 100 },
+    "branches": { "total": 0, "covered": 0, "skipped": 0, "pct": 100 }
+  },
+  "src\\app\\dinner-details\\dinner-details.component.ts": {
+    "lines": { "total": 11, "covered": 7, "skipped": 0, "pct": 63.63 },
+    "functions": { "total": 3, "covered": 2, "skipped": 0, "pct": 66.66 },
+    "statements": { "total": 11, "covered": 7, "skipped": 0, "pct": 63.63 },
+    "branches": { "total": 0, "covered": 0, "skipped": 0, "pct": 100 }
+  },
+  "src\\app\\dinner-details\\dinner-details.resolver.ts": {
+    "lines": { "total": 3, "covered": 2, "skipped": 0, "pct": 66.66 },
+    "functions": { "total": 1, "covered": 0, "skipped": 0, "pct": 0 },
+    "statements": { "total": 3, "covered": 2, "skipped": 0, "pct": 66.66 },
+    "branches": { "total": 0, "covered": 0, "skipped": 0, "pct": 100 }
+  },
+  "src\\app\\error\\error.component.ts": {
+    "lines": { "total": 1, "covered": 1, "skipped": 0, "pct": 100 },
+    "functions": { "total": 0, "covered": 0, "skipped": 0, "pct": 100 },
+    "statements": { "total": 2, "covered": 2, "skipped": 0, "pct": 100 },
+    "branches": { "total": 0, "covered": 0, "skipped": 0, "pct": 100 }
+  },
+  "src\\app\\galerie\\galerie.component.ts": {
+    "lines": { "total": 1, "covered": 1, "skipped": 0, "pct": 100 },
+    "functions": { "total": 0, "covered": 0, "skipped": 0, "pct": 100 },
+    "statements": { "total": 2, "covered": 2, "skipped": 0, "pct": 100 },
+    "branches": { "total": 0, "covered": 0, "skipped": 0, "pct": 100 }
+  },
+  "src\\app\\guards\\administration.guard.ts": {
+    "lines": { "total": 5, "covered": 1, "skipped": 0, "pct": 20 },
+    "functions": { "total": 2, "covered": 0, "skipped": 0, "pct": 0 },
+    "statements": { "total": 5, "covered": 1, "skipped": 0, "pct": 20 },
+    "branches": { "total": 2, "covered": 0, "skipped": 0, "pct": 0 }
+  },
+  "src\\app\\guards\\authenticated.guard.ts": {
+    "lines": { "total": 4, "covered": 1, "skipped": 0, "pct": 25 },
+    "functions": { "total": 2, "covered": 0, "skipped": 0, "pct": 0 },
+    "statements": { "total": 4, "covered": 1, "skipped": 0, "pct": 25 },
+    "branches": { "total": 2, "covered": 0, "skipped": 0, "pct": 0 }
+  },
+  "src\\app\\interceptors\\csrf.interceptor.ts": {
+    "lines": { "total": 6, "covered": 1, "skipped": 0, "pct": 16.66 },
+    "functions": { "total": 1, "covered": 0, "skipped": 0, "pct": 0 },
+    "statements": { "total": 7, "covered": 2, "skipped": 0, "pct": 28.57 },
+    "branches": { "total": 1, "covered": 0, "skipped": 0, "pct": 0 }
+  },
+  "src\\app\\interceptors\\error-handling.interceptor.ts": {
+    "lines": { "total": 9, "covered": 3, "skipped": 0, "pct": 33.33 },
+    "functions": { "total": 4, "covered": 1, "skipped": 0, "pct": 25 },
+    "statements": { "total": 10, "covered": 3, "skipped": 0, "pct": 30 },
+    "branches": { "total": 2, "covered": 0, "skipped": 0, "pct": 0 }
+  },
+  "src\\app\\landing\\landing.component.ts": {
+    "lines": { "total": 3, "covered": 3, "skipped": 0, "pct": 100 },
+    "functions": { "total": 1, "covered": 1, "skipped": 0, "pct": 100 },
+    "statements": { "total": 3, "covered": 3, "skipped": 0, "pct": 100 },
+    "branches": { "total": 0, "covered": 0, "skipped": 0, "pct": 100 }
+  },
+  "src\\app\\landing\\countdown\\countdown.component.ts": {
+    "lines": { "total": 8, "covered": 8, "skipped": 0, "pct": 100 },
+    "functions": { "total": 4, "covered": 4, "skipped": 0, "pct": 100 },
+    "statements": { "total": 9, "covered": 9, "skipped": 0, "pct": 100 },
+    "branches": { "total": 0, "covered": 0, "skipped": 0, "pct": 100 }
+  },
+  "src\\app\\landing\\login\\login.component.ts": {
+    "lines": { "total": 10, "covered": 6, "skipped": 0, "pct": 60 },
+    "functions": { "total": 4, "covered": 1, "skipped": 0, "pct": 25 },
+    "statements": { "total": 11, "covered": 6, "skipped": 0, "pct": 54.54 },
+    "branches": { "total": 1, "covered": 0, "skipped": 0, "pct": 0 }
+  },
+  "src\\app\\landing\\login\\init-password-reset\\init-password-reset.component.ts": {
+    "lines": { "total": 11, "covered": 6, "skipped": 0, "pct": 54.54 },
+    "functions": { "total": 2, "covered": 1, "skipped": 0, "pct": 50 },
+    "statements": { "total": 11, "covered": 6, "skipped": 0, "pct": 54.54 },
+    "branches": { "total": 3, "covered": 1, "skipped": 0, "pct": 33.33 }
+  },
+  "src\\app\\landing\\registration\\registration.component.ts": {
+    "lines": { "total": 21, "covered": 12, "skipped": 0, "pct": 57.14 },
+    "functions": { "total": 6, "covered": 3, "skipped": 0, "pct": 50 },
+    "statements": { "total": 22, "covered": 12, "skipped": 0, "pct": 54.54 },
+    "branches": { "total": 5, "covered": 0, "skipped": 0, "pct": 0 }
+  },
+  "src\\app\\landing\\registration\\models\\password-policies.ts": {
+    "lines": { "total": 1, "covered": 1, "skipped": 0, "pct": 100 },
+    "functions": { "total": 0, "covered": 0, "skipped": 0, "pct": 100 },
+    "statements": { "total": 1, "covered": 1, "skipped": 0, "pct": 100 },
+    "branches": { "total": 0, "covered": 0, "skipped": 0, "pct": 100 }
+  },
+  "src\\app\\layout\\footer\\footer.component.ts": {
+    "lines": { "total": 1, "covered": 1, "skipped": 0, "pct": 100 },
+    "functions": { "total": 0, "covered": 0, "skipped": 0, "pct": 100 },
+    "statements": { "total": 2, "covered": 2, "skipped": 0, "pct": 100 },
+    "branches": { "total": 0, "covered": 0, "skipped": 0, "pct": 100 }
+  },
+  "src\\app\\legal-notice\\legal-notice.component.ts": {
+    "lines": { "total": 1, "covered": 1, "skipped": 0, "pct": 100 },
+    "functions": { "total": 0, "covered": 0, "skipped": 0, "pct": 100 },
+    "statements": { "total": 2, "covered": 2, "skipped": 0, "pct": 100 },
+    "branches": { "total": 0, "covered": 0, "skipped": 0, "pct": 100 }
+  },
+  "src\\app\\password-reset\\password-reset.component.ts": {
+    "lines": { "total": 23, "covered": 6, "skipped": 0, "pct": 26.08 },
+    "functions": { "total": 6, "covered": 1, "skipped": 0, "pct": 16.66 },
+    "statements": { "total": 23, "covered": 6, "skipped": 0, "pct": 26.08 },
+    "branches": { "total": 3, "covered": 0, "skipped": 0, "pct": 0 }
+  },
+  "src\\app\\password-reset\\password-reset.service.ts": {
+    "lines": { "total": 5, "covered": 3, "skipped": 0, "pct": 60 },
+    "functions": { "total": 3, "covered": 1, "skipped": 0, "pct": 33.33 },
+    "statements": { "total": 5, "covered": 3, "skipped": 0, "pct": 60 },
+    "branches": { "total": 0, "covered": 0, "skipped": 0, "pct": 100 }
+  },
+  "src\\app\\security\\csrf.service.ts": {
+    "lines": { "total": 5, "covered": 4, "skipped": 0, "pct": 80 },
+    "functions": { "total": 3, "covered": 2, "skipped": 0, "pct": 66.66 },
+    "statements": { "total": 5, "covered": 4, "skipped": 0, "pct": 80 },
+    "branches": { "total": 0, "covered": 0, "skipped": 0, "pct": 100 }
+  },
+  "src\\app\\shared\\notification.service.ts": {
+    "lines": { "total": 3, "covered": 2, "skipped": 0, "pct": 66.66 },
+    "functions": { "total": 2, "covered": 1, "skipped": 0, "pct": 50 },
+    "statements": { "total": 3, "covered": 2, "skipped": 0, "pct": 66.66 },
+    "branches": { "total": 0, "covered": 0, "skipped": 0, "pct": 100 }
+  },
+  "src\\app\\shared\\confirmation\\confirmation.component.ts": {
+    "lines": { "total": 2, "covered": 2, "skipped": 0, "pct": 100 },
+    "functions": { "total": 1, "covered": 1, "skipped": 0, "pct": 100 },
+    "statements": { "total": 2, "covered": 2, "skipped": 0, "pct": 100 },
+    "branches": { "total": 0, "covered": 0, "skipped": 0, "pct": 100 }
+  },
+  "src\\app\\shared\\confirmation\\confirmation.service.ts": {
+    "lines": { "total": 3, "covered": 2, "skipped": 0, "pct": 66.66 },
+    "functions": { "total": 2, "covered": 1, "skipped": 0, "pct": 50 },
+    "statements": { "total": 3, "covered": 2, "skipped": 0, "pct": 66.66 },
+    "branches": { "total": 0, "covered": 0, "skipped": 0, "pct": 100 }
+  },
+  "src\\app\\shared\\image-skeleton\\image-skeleton.component.ts": {
+    "lines": { "total": 1, "covered": 1, "skipped": 0, "pct": 100 },
+    "functions": { "total": 0, "covered": 0, "skipped": 0, "pct": 100 },
+    "statements": { "total": 2, "covered": 2, "skipped": 0, "pct": 100 },
+    "branches": { "total": 0, "covered": 0, "skipped": 0, "pct": 100 }
+  },
+  "src\\app\\shared\\todos\\todos.service.ts": {
+    "lines": { "total": 6, "covered": 5, "skipped": 0, "pct": 83.33 },
+    "functions": { "total": 2, "covered": 1, "skipped": 0, "pct": 50 },
+    "statements": { "total": 6, "covered": 5, "skipped": 0, "pct": 83.33 },
+    "branches": { "total": 0, "covered": 0, "skipped": 0, "pct": 100 }
+  },
+  "src\\app\\tagesablauf\\tagesablauf.component.ts": {
+    "lines": { "total": 1, "covered": 1, "skipped": 0, "pct": 100 },
+    "functions": { "total": 0, "covered": 0, "skipped": 0, "pct": 100 },
+    "statements": { "total": 2, "covered": 2, "skipped": 0, "pct": 100 },
+    "branches": { "total": 0, "covered": 0, "skipped": 0, "pct": 100 }
+  },
+  "src\\app\\uebernachtung\\uebernachtung.component.ts": {
+    "lines": { "total": 1, "covered": 1, "skipped": 0, "pct": 100 },
+    "functions": { "total": 0, "covered": 0, "skipped": 0, "pct": 100 },
+    "statements": { "total": 2, "covered": 2, "skipped": 0, "pct": 100 },
+    "branches": { "total": 0, "covered": 0, "skipped": 0, "pct": 100 }
+  },
+  "src\\app\\user\\channels.service.ts": {
+    "lines": { "total": 4, "covered": 4, "skipped": 0, "pct": 100 },
+    "functions": { "total": 2, "covered": 2, "skipped": 0, "pct": 100 },
+    "statements": { "total": 4, "covered": 4, "skipped": 0, "pct": 100 },
+    "branches": { "total": 0, "covered": 0, "skipped": 0, "pct": 100 }
+  },
+  "src\\app\\user\\observe-user.service.ts": {
+    "lines": { "total": 9, "covered": 5, "skipped": 0, "pct": 55.55 },
+    "functions": { "total": 2, "covered": 1, "skipped": 0, "pct": 50 },
+    "statements": { "total": 9, "covered": 5, "skipped": 0, "pct": 55.55 },
+    "branches": { "total": 1, "covered": 0, "skipped": 0, "pct": 0 }
+  },
+  "src\\app\\user\\user.component.ts": {
+    "lines": { "total": 9, "covered": 7, "skipped": 0, "pct": 77.77 },
+    "functions": { "total": 3, "covered": 1, "skipped": 0, "pct": 33.33 },
+    "statements": { "total": 9, "covered": 7, "skipped": 0, "pct": 77.77 },
+    "branches": { "total": 0, "covered": 0, "skipped": 0, "pct": 100 }
+  },
+  "src\\app\\user\\user.service.ts": {
+    "lines": { "total": 11, "covered": 5, "skipped": 0, "pct": 45.45 },
+    "functions": { "total": 6, "covered": 1, "skipped": 0, "pct": 16.66 },
+    "statements": { "total": 11, "covered": 5, "skipped": 0, "pct": 45.45 },
+    "branches": { "total": 0, "covered": 0, "skipped": 0, "pct": 100 }
+  },
+  "src\\app\\user\\password-change\\password-change.component.ts": {
+    "lines": { "total": 12, "covered": 7, "skipped": 0, "pct": 58.33 },
+    "functions": { "total": 3, "covered": 1, "skipped": 0, "pct": 33.33 },
+    "statements": { "total": 12, "covered": 7, "skipped": 0, "pct": 58.33 },
+    "branches": { "total": 1, "covered": 0, "skipped": 0, "pct": 0 }
+  },
+  "src\\app\\user\\remove-user\\remove-user.component.ts": {
+    "lines": { "total": 13, "covered": 7, "skipped": 0, "pct": 53.84 },
+    "functions": { "total": 2, "covered": 1, "skipped": 0, "pct": 50 },
+    "statements": { "total": 13, "covered": 7, "skipped": 0, "pct": 53.84 },
+    "branches": { "total": 1, "covered": 0, "skipped": 0, "pct": 0 }
+  },
+  "src\\app\\zusagen\\zusagen.component.ts": {
+    "lines": { "total": 19, "covered": 9, "skipped": 0, "pct": 47.36 },
+    "functions": { "total": 8, "covered": 2, "skipped": 0, "pct": 25 },
+    "statements": { "total": 19, "covered": 9, "skipped": 0, "pct": 47.36 },
+    "branches": { "total": 3, "covered": 0, "skipped": 0, "pct": 0 }
+  },
+  "src\\app\\zusagen\\zusagen.resolver.ts": {
+    "lines": { "total": 3, "covered": 2, "skipped": 0, "pct": 66.66 },
+    "functions": { "total": 1, "covered": 0, "skipped": 0, "pct": 0 },
+    "statements": { "total": 3, "covered": 2, "skipped": 0, "pct": 66.66 },
+    "branches": { "total": 0, "covered": 0, "skipped": 0, "pct": 100 }
+  },
+  "src\\app\\zusagen\\zusagen.service.ts": {
+    "lines": { "total": 13, "covered": 4, "skipped": 0, "pct": 30.76 },
+    "functions": { "total": 8, "covered": 1, "skipped": 0, "pct": 12.5 },
+    "statements": { "total": 13, "covered": 4, "skipped": 0, "pct": 30.76 },
+    "branches": { "total": 1, "covered": 0, "skipped": 0, "pct": 0 }
+  },
+  "src\\app\\zusagen\\add-guest\\add-guest.component.ts": {
+    "lines": { "total": 13, "covered": 7, "skipped": 0, "pct": 53.84 },
+    "functions": { "total": 4, "covered": 1, "skipped": 0, "pct": 25 },
+    "statements": { "total": 14, "covered": 7, "skipped": 0, "pct": 50 },
+    "branches": { "total": 4, "covered": 1, "skipped": 0, "pct": 25 }
+  },
+  "src\\environments\\environment.ts": {
+    "lines": { "total": 1, "covered": 1, "skipped": 0, "pct": 100 },
+    "functions": { "total": 0, "covered": 0, "skipped": 0, "pct": 100 },
+    "statements": { "total": 1, "covered": 1, "skipped": 0, "pct": 100 },
+    "branches": { "total": 0, "covered": 0, "skipped": 0, "pct": 100 }
+  }
+}
