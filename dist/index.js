@@ -38351,16 +38351,22 @@ exports.run = run;
 /***/ }),
 
 /***/ 1936:
-/***/ ((__unused_webpack_module, exports, __nccwpck_require__) => {
+/***/ (function(__unused_webpack_module, exports, __nccwpck_require__) {
 
 "use strict";
 
+var __importDefault = (this && this.__importDefault) || function (mod) {
+    return (mod && mod.__esModule) ? mod : { "default": mod };
+};
 Object.defineProperty(exports, "__esModule", ({ value: true }));
 exports.transformToArray = exports.renderToMarkdown = void 0;
 const promises_1 = __nccwpck_require__(3292);
 const handlebars_1 = __nccwpck_require__(7492);
+const path_1 = __importDefault(__nccwpck_require__(1017));
 const renderToMarkdown = async (coverageSummary) => {
-    const template = (0, handlebars_1.compile)(await (0, promises_1.readFile)('./src/templates/comment.handlebars', { encoding: 'utf-8' }));
+    const template = (0, handlebars_1.compile)(await (0, promises_1.readFile)(path_1.default.join(__dirname, 'templates/comment.handlebars'), {
+        encoding: 'utf-8'
+    }));
     const variables = {
         title: 'Test Coverage',
         total: coverageSummary.total,

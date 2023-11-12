@@ -1,5 +1,6 @@
-name: 'The name of your action here'
-description: 'Provide a description here'
+name: 'Karma Coverage Report'
+description:
+  'Publishes a Karma Code Coverage Report as a comment in a Pull Request'
 author: 'Fabian Strathaus'
 
 # Add your action's branding here. This will appear on the GitHub Marketplace.
