@@ -2,12 +2,15 @@ import { readFile } from 'fs/promises'
 import { TestCoverageReport } from './models/test-coverage-report'
 import { compile } from 'handlebars'
 import { TestCoverageReportItem } from './models/test-coverage-report-item'
+import path from 'path'
 
 export const renderToMarkdown = async (
   coverageSummary: TestCoverageReport
 ): Promise<string> => {
   const template = compile(
-    await readFile('./src/templates/comment.handlebars', { encoding: 'utf-8' })
+    await readFile(path.join(__dirname, 'templates/comment.handlebars'), {
+      encoding: 'utf-8'
+    })
   )
   const variables = {
     title: 'Test Coverage',
